@@ -13,5 +13,8 @@ int main() {
     size_t M = 3001; // ближайшее простое к 3000
     analyze_hash_distribution(1000, M);
 
+    // для работы через меню
+    // runMenu();
+
     return 0;
 }
